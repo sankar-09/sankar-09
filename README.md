@@ -30,9 +30,9 @@
 
 ### 🔝 Top Contributed Repos 
 ![](https://github-contributor-stats.vercel.app/api?username=sankar-09&limit=5&theme=dark&combine_all_yearly_contributions=true)
-- 📍 **LOCATE (API):** https://github.com/sankar-09/TESTAPI
-- 🚀 **DOTTS (API):** https://github.com/sankar-09/DOTTS_APIs
-- 🩺 **SecondOpinion API:** https://github.com/sankar-09/SecondOpinionApi
+- 📍 **LOCATE (API):** ``` https://github.com/sankar-09/TESTAPI ```
+- 🚀 **DOTTS (API):** ``` https://github.com/sankar-09/DOTTS_APIs ```
+- 🩺 **SecondOpinion API:** ``` https://github.com/sankar-09/SecondOpinionApi ```
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
